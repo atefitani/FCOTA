@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<setupdb version="7">history
+	<active>Active Setup</active>
+	<history>History
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.16
+			<timestamp>May 19 08:56:25 2024</timestamp>
+			<uuid>{876c99bd-44a7-4138-a548-68ad3ccc2598}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.17
+			<timestamp>May 19 08:57:46 2024</timestamp>
+			<uuid>{885ec4a3-cd8b-47ee-9419-c10aede2853c}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.18
+			<timestamp>May 19 08:59:02 2024</timestamp>
+			<uuid>{6fdbe3c4-7487-40c6-b2ee-a8a96c728504}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.19
+			<timestamp>May 19 09:00:03 2024</timestamp>
+			<uuid>{53650911-fb8f-4545-96e1-e92b0eff9d54}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.20
+			<timestamp>May 19 12:51:21 2024</timestamp>
+			<uuid>{3551696f-bd61-4cb3-b18d-4b4f01f04081}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.21
+			<timestamp>May 19 12:52:01 2024</timestamp>
+			<uuid>{cdb0a2dc-f4a8-42d4-8756-01b61bf148a3}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.22
+			<timestamp>May 19 12:53:17 2024</timestamp>
+			<uuid>{09a78e9d-cb06-4bf8-8310-5106c5dbeb60}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.23
+			<timestamp>May 19 12:54:02 2024</timestamp>
+			<uuid>{8b06d3ad-60e3-4a47-986e-391fcda2bc8f}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/Downloads/AdvancedCircuits/folded_cascode_ota_project/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.24
+			<timestamp>May 25 00:56:11 2024</timestamp>
+			<uuid>{56e240e3-b02d-43f0-ae7a-2b936bef481d}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/cadence/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/cadence/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>May 30 23:26:45 2024</timestamp>
+			<uuid>{55338c39-e072-42cf-8709-17cd9eb0c018}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/cadence/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/cadence/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.25
+			<timestamp>May 31 18:27:11 2024</timestamp>
+			<uuid>{90c7103a-519f-4592-a736-2d6b5aebeddf}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/cadence/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/cadence/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/FCOTA_project/NMOS/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+	</history>
+</setupdb>

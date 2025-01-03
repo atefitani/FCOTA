@@ -1,0 +1,18 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue Aug 13 20:42:18 2024 
+Best design point: 1
+Design specs: 
+	FCOTA_fcota_cmfb_tb__1	corner	Nominal - 
+	Ao_dB		56.64
+	Ao		679.1
+	BW		74.8K
+	GBW		50.8M
+	fu		50.93M
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Tue Aug 13 20:43:16 2024 

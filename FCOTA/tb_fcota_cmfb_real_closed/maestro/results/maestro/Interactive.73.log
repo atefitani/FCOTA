@@ -1,0 +1,21 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed Aug 14 16:50:08 2024 
+Best design point: 1
+Design specs: 
+	FCOTA_fcota_cmfb_closed_1	corner	Nominal - 
+	Ac_dB		-6.4K	No
+	Ac		0	No
+	BW		Error	No
+	GBW		Error	No
+	fu		Error	No
+	Input_Swing		Error	No
+	Output_Swing		Error	No
+	Gain from swing		Error	No
+Design parameters: 
+
+Interactive.73
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.73 completed. 
+Current time: Wed Aug 14 16:50:33 2024 

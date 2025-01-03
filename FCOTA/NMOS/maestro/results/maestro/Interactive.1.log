@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Apr 26 07:05:53 2024 
+Best design point: 1
+Design specs: 
+	OTA_AA_NMOS_1	corner	Nominal - 
+	waveVsWave(?x pv("NM0" "gmoverid" ?result "dcOpInfo") ?y (pv("NM0" "gm" ?result "dcOpInfo") / pv("NM0" "gds" ?result "dcOpInfo")))		Error	No
+	waveVsWave(?x pv("NM0" "gmoverid" ?result "dcOpInfo") ?y (pv("NM0" "id" ?result "dcOpInfo") / pv("/WN" "value" ?result "variables")))		Error	No
+	waveVsWave(?x pv("NM0" "gmoverid" ?result "dcOpInfo") ?y pv("NM0" "vdsat" ?result "dcOpInfo"))		Error	No
+	waveVsWave(?x pv("NM0" "gmoverid" ?result "dcOpInfo") ?y pv("NM0" "vgs" ?result "dcOpInfo"))		Error	No
+Design parameters: 
+
+Interactive.1
+Number of points completed: 10
+Number of simulation errors: 0
+Interactive.1 completed. 
+Current time: Fri Apr 26 07:08:16 2024 

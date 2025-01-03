@@ -1,0 +1,142 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version IC23.1-64b 06/21/2023 09:20 (cpgbld16) $
+          : sub-version  IC23.1-64b.43 
+Started at: 21-Aug-2024  18:11:30
+User Name : vlsi
+Host Name : vlsi-eda
+Directory : /home/vlsi/cadence
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+WARNING (XSTRM-20): Output Stream file '/home/vlsi/cadence/FCOTA/fcota_with_cmfb/layout/layout.oa' already exists. It will be overwritten.
+INFO (XSTRM-217): Reading the layer map file, /home/vlsi/cadence/UMC/65/_G-01-LOGIC_MIXED_MODE65N-SP_LOW_K/Designkits/Cadence_IC6/umc65sp/umc65sp.layermap
+INFO (XSTRM-427): Based on current hardware configuration, running XStream Out translation in multi-threaded mode with 2 threads.
+INFO (XSTRM-162): You have not used the '-viaMap' option. If the OpenAccess design has native oaVia instances, use the '-viaMap' option for preserving oaVia instances in a XStream Out - XStream In round trip. Using the '-viaMap' option improves performance and VM usage of applications using the Streamed-In design.
+
+Summary of Options :
+library                                 FCOTA
+strmFile                                /home/vlsi/cadence/FCOTA/fcota_with_cmfb/layout/layout.oa
+topCell                                 fcota_with_cmfb
+view                                    layout
+runDir                                  /home/vlsi/cadence/FCOTA/fcota_with_cmfb/layout/
+logFile                                 PIPO.LOG.fcota_with_cmfb
+summaryFile                             PIPO.SUM.fcota_with_cmfb
+layerMap                                /home/vlsi/cadence/UMC/65/_G-01-LOGIC_MIXED_MODE65N-SP_LOW_K/Designkits/Cadence_IC6/umc65sp/umc65sp.layermap
+case                                    Preserve
+convertDot                              node
+convertPcellPin                         geometry
+
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'instance:drawing' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+INFO (XSTRM-180): You have not used the '-objectMap' option. The design has instance(s) of at least one of following OpenAccess objects: oaBlockage, oaBoundary, oaRow, and oaMarker. Any information about these objects will not be translated into the generated stream file. Use the '-objectMap' option to translate/preserve these objects using XStream.
+INFO (XSTRM-223): 1. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_724253090480.
+INFO (XSTRM-223): 2. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_724253090481.
+INFO (XSTRM-223): 3. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_724253090482.
+INFO (XSTRM-223): 4. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_724253090483.
+INFO (XSTRM-223): 5. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_724253090484.
+INFO (XSTRM-223): 6. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_724253090485.
+INFO (XSTRM-223): 7. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_724253090486.
+INFO (XSTRM-223): 8. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_724253090487.
+INFO (XSTRM-223): 9. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_724253090488.
+INFO (XSTRM-223): 10. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_724253090489.
+INFO (XSTRM-223): 11. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904810.
+INFO (XSTRM-223): 12. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904811.
+INFO (XSTRM-223): 13. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904812.
+INFO (XSTRM-223): 14. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904813.
+INFO (XSTRM-223): 15. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904814.
+INFO (XSTRM-223): 16. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904815.
+INFO (XSTRM-223): 17. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904816.
+INFO (XSTRM-223): 18. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904817.
+INFO (XSTRM-223): 19. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904818.
+INFO (XSTRM-223): 20. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904819.
+INFO (XSTRM-223): 21. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904820.
+INFO (XSTRM-223): 22. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904821.
+INFO (XSTRM-223): 23. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904822.
+INFO (XSTRM-223): 24. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904823.
+INFO (XSTRM-223): 25. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904824.
+INFO (XSTRM-223): 26. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904825.
+INFO (XSTRM-223): 27. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904826.
+INFO (XSTRM-223): 28. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904827.
+INFO (XSTRM-223): 29. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904828.
+INFO (XSTRM-223): 30. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904829.
+INFO (XSTRM-223): 31. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904830.
+INFO (XSTRM-223): 32. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904831.
+INFO (XSTRM-223): 33. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904832.
+INFO (XSTRM-223): 34. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904833.
+INFO (XSTRM-223): 35. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904834.
+INFO (XSTRM-223): 36. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904835.
+INFO (XSTRM-223): 37. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904836.
+INFO (XSTRM-223): 38. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904837.
+INFO (XSTRM-223): 39. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904838.
+INFO (XSTRM-223): 40. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904839.
+INFO (XSTRM-223): 41. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904840.
+INFO (XSTRM-223): 42. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904841.
+INFO (XSTRM-223): 43. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904842.
+INFO (XSTRM-223): 44. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904843.
+INFO (XSTRM-223): 45. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904844.
+INFO (XSTRM-223): 46. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904845.
+INFO (XSTRM-223): 47. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904846.
+INFO (XSTRM-223): 48. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904847.
+INFO (XSTRM-223): 49. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904848.
+INFO (XSTRM-223): 50. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904849.
+INFO (XSTRM-223): 51. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904850.
+INFO (XSTRM-223): 52. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904851.
+INFO (XSTRM-223): 53. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904852.
+INFO (XSTRM-223): 54. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904853.
+INFO (XSTRM-223): 55. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904854.
+INFO (XSTRM-223): 56. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904855.
+INFO (XSTRM-223): 57. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904856.
+INFO (XSTRM-223): 58. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904857.
+INFO (XSTRM-223): 59. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904858.
+INFO (XSTRM-223): 60. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904859.
+INFO (XSTRM-223): 61. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904860.
+INFO (XSTRM-223): 62. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904861.
+INFO (XSTRM-223): 63. Translating cellview umc65sp/N_11_SPHVT/layout as STRUCTURE N_11_SPHVT_CDNS_7242530904862.
+INFO (XSTRM-223): 64. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904863.
+INFO (XSTRM-223): 65. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904864.
+INFO (XSTRM-223): 66. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904865.
+INFO (XSTRM-223): 67. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904866.
+INFO (XSTRM-223): 68. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904867.
+INFO (XSTRM-223): 69. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904868.
+INFO (XSTRM-223): 70. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904869.
+INFO (XSTRM-223): 71. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904870.
+INFO (XSTRM-223): 72. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904871.
+INFO (XSTRM-223): 73. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904872.
+INFO (XSTRM-223): 74. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904873.
+INFO (XSTRM-223): 75. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904874.
+INFO (XSTRM-223): 76. Translating cellview umc65sp/RSNPO_SP/layout as STRUCTURE RSNPO_SP_CDNS_7242530904875.
+INFO (XSTRM-223): 77. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904876.
+INFO (XSTRM-223): 78. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904877.
+INFO (XSTRM-223): 79. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904878.
+INFO (XSTRM-223): 80. Translating cellview umc65sp/P_11_SPHVT/layout as STRUCTURE P_11_SPHVT_CDNS_7242530904879.
+INFO (XSTRM-223): 81. Translating cellview FCOTA/fcota_with_cmfb/layout as STRUCTURE fcota_with_cmfb.
+
+Summary of Objects Translated:
+	Scalar Instances:                       314
+	Array Instances:                        0
+	Polygons:                               0
+	Paths:                                  44
+	Rectangles:                             5806
+	Lines:                                  0
+	Arcs:                                   0
+	Donuts:                                 0
+	Dots:                                   0
+	Ellipses:                               0
+	Boundaries:                             0
+	Area Blockages:                         0
+	Layer Blockages:                        0
+	Area Halos:                             0
+	Markers:                                0
+	Rows:                                   0
+	Stitch:                                 0
+	Standard Vias                           0
+	Custom Vias:                            0
+	CdsGen Vias:                            0
+	Pathsegs:                               0
+	Text:                                   400
+	TextDisplay:                            2
+	Cells:                                  81
+
+Elapsed Time: 1.6s   User Time: 0.9s   CPU Time: 0.5s   Peak VM: 105912KB
+INFO (XSTRM-234): Translation completed. '0' error(s) and '2' warning(s) found.

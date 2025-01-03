@@ -1,0 +1,24 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed Sep 25 22:31:44 2024 
+Best design point: 1
+Design specs: 
+	Pre_Layout	corner	Nominal - 
+	Gain		1.975	No
+	Gain_dB		5.91	No
+	BW		11.81M
+	GBW		23.32M
+	fu		15.84M
+	Post_Layout	corner	Nominal - 
+	Gain		1.168	No
+	Gain_dB		1.35	No
+	BW		10.07M
+	GBW		11.76M
+	fu		6.558M
+Design parameters: 
+
+Interactive.2
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.2 completed. 
+Current time: Wed Sep 25 22:32:23 2024 

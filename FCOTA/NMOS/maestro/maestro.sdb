@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<setupdb version="7">maestro
+	<active>Active Setup
+		<jobcontrolmode>LSCS</jobcontrolmode>
+		<corners>
+			<corner enabled="1">_default</corner>
+		</corners>
+		<overwritehistory>0</overwritehistory>
+		<tests>
+			<test enabled="1">FCOTA_project_NMOS_1
+				<tool>ADE</tool>
+				<tooloptions>
+					<option>cell
+						<value>NMOS</value>
+					</option>
+					<option>lib
+						<value>FCOTA_project</value>
+					</option>
+					<option>sim
+						<value>spectre</value>
+					</option>
+					<option>view
+						<value>schematic</value>
+					</option>
+					<option>path
+						<value>$AXL_SETUPDB_DIR</value>
+					</option>
+					<option>state
+						<value>active</value>
+					</option>
+				</tooloptions>
+				<vars>
+					<var>LN
+						<value>425n</value>
+					</var>
+					<var>Vds
+						<value>0.4</value>
+					</var>
+					<var>Vgs
+						<value>500m</value>
+					</var>
+					<var>WN
+						<value>10u</value>
+					</var>
+				</vars>
+				<outputs>
+					<output>waveVsWave(?x getData("PM0:gmoverid" ?result "dc") ?y v("PM0:vgs" ?result "dc"))
+						<evalType>point</evalType>
+					</output>
+					<output>Vgs vs gm/Id
+						<evalType>point</evalType>
+					</output>
+					<output>waveVsWave(?x getData("PM0:gmoverid" ?result "dc") ?y (getData("PM0:id" ?result "dc") / pv("/WP" "value" ?result "variables")))
+						<evalType>point</evalType>
+					</output>
+					<output>Current Density vs gm/Id
+						<evalType>point</evalType>
+					</output>
+					<output>waveVsWave(?x getData("PM0:gmoverid" ?result "dc") ?y v("PM0:vdsat" ?result "dc"))
+						<evalType>point</evalType>
+					</output>
+					<output>Vdsat vs gm/Id
+						<evalType>point</evalType>
+					</output>
+				</outputs>
+			</test>
+		</tests>
+		<extensions>
+			<extension>Parasitics
+				<callback>_parSetupDBExtensionCB</callback>
+				<iconvalue></iconvalue>
+				<icontype></icontype>
+			</extension>
+		</extensions>
+		<currentmode>Single Run, Sweeps and Corners</currentmode>
+		<checksasserts netlist="0">
+			<test netlist="0" netlistscope="all">OTA_AA_NMOS_1</test>
+			<test netlist="0" netlistscope="all">FCOTA_project_NMOS_1</test>
+		</checksasserts>
+		<plottingoptions>
+			<plottingoption>waveformtemplate
+				<value>(None)</value>
+			</plottingoption>
+			<plottingoption>plottingmode
+				<value>Replace</value>
+			</plottingoption>
+			<plottingoption>plottype
+				<value>None</value>
+			</plottingoption>
+			<plottingoption>usewaveformtemplate
+				<value>no</value>
+			</plottingoption>
+			<plottingoption>useMaestroPlottingTemplate
+				<value>yes</value>
+			</plottingoption>
+			<plottingoption>allplottingtemplates
+				<value></value>
+			</plottingoption>
+			<plottingoption>defaultplottingtemplate
+				<value></value>
+			</plottingoption>
+			<plottingoption>distributedplot_enabled
+				<value>no</value>
+			</plottingoption>
+		</plottingoptions>
+		<exploreroptions>
+			<exploreroption>waveformtemplate
+				<value>(None)</value>
+			</exploreroption>
+		</exploreroptions>
+		<incrementalsimulationoptions>
+			<incrementalSimulation>0</incrementalSimulation>
+		</incrementalsimulationoptions>
+		<overwritehistoryname>Interactive.0</overwritehistoryname>
+		<disabledtests></disabledtests>
+		<allparametersdisabled>0</allparametersdisabled>
+		<incrementalsimsetup>
+			<useincremental>0</useincremental>
+			<reusenetlist>0</reusenetlist>
+			<reusesaverunhist>0</reusesaverunhist>
+			<copyreferenceresults>1</copyreferenceresults>
+		</incrementalsimsetup>
+	</active>
+	<history>History
+	</history>
+</setupdb>

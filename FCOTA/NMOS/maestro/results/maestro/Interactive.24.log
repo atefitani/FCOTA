@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat May 25 00:56:11 2024 
+Best design point: 1
+Design specs: 
+	FCOTA_project_NMOS_1	corner	Nominal - 
+	Vgs vs gm/Id		Error	No
+	Current Density vs gm/Id		Error	No
+Design parameters: 
+
+Interactive.24
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.24 completed. 
+Current time: Sat May 25 00:56:21 2024 

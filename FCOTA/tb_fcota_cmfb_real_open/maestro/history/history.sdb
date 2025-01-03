@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<setupdb version="7">history
+	<active>Active Setup</active>
+	<history>History
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.0
+			<timestamp>Jul 30 01:15:46 2024</timestamp>
+			<uuid>{fe0d0e86-7dca-43dd-a489-5525a59e911c}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/cadence/FCOTA/tb_fcota_cmfb_real_open/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/cadence/FCOTA/tb_fcota_cmfb_real_open/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/results/maestro/Interactive.0</psfdir>
+			<simdir>/home/vlsi/simulation/results/maestro/Interactive.0</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.1
+			<timestamp>Jul 30 01:19:50 2024</timestamp>
+			<uuid>{5e9fb59f-4090-46f9-a9b6-65677a897ecf}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/cadence/FCOTA/tb_fcota_cmfb_real_open/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/cadence/FCOTA/tb_fcota_cmfb_real_open/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/results/maestro/Interactive.1</psfdir>
+			<simdir>/home/vlsi/simulation/results/maestro/Interactive.1</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.2
+			<timestamp>Jul 30 01:21:00 2024</timestamp>
+			<uuid>{bffbc6bd-d0a5-447a-9f23-ab514c79a285}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/cadence/FCOTA/tb_fcota_cmfb_real_open/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/cadence/FCOTA/tb_fcota_cmfb_real_open/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/results/maestro/Interactive.2</psfdir>
+			<simdir>/home/vlsi/simulation/results/maestro/Interactive.2</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.3
+			<timestamp>Aug 5 20:12:45 2024</timestamp>
+			<uuid>{97fb7c92-10a9-48f4-932f-6c0fb42a56bc}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/cadence/FCOTA/tb_fcota_cmfb_real_open/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/cadence/FCOTA/tb_fcota_cmfb_real_open/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/results/maestro/Interactive.3</psfdir>
+			<simdir>/home/vlsi/simulation/results/maestro/Interactive.3</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>Aug 13 20:42:16 2024</timestamp>
+			<uuid>{b5d51b1f-0fce-4d06-a102-15057083ab4a}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/vlsi/cadence/FCOTA/tb_fcota_cmfb_real_open/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/vlsi/cadence/FCOTA/tb_fcota_cmfb_real_open/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/vlsi/simulation/results/maestro/ExplorerRun.0</psfdir>
+			<simdir>/home/vlsi/simulation/results/maestro/ExplorerRun.0</simdir>
+		</historyentry>
+	</history>
+</setupdb>

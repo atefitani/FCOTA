@@ -1,0 +1,237 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version IC23.1-64b 06/21/2023 09:20 (cpgbld16) $
+          : sub-version  IC23.1-64b.43 
+Started at: 21-Aug-2024  18:11:30
+User Name : vlsi
+Host Name : vlsi-eda
+Directory : /home/vlsi/cadence
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+
+                       Individual Cell Statistics - Basic Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               Instance Array   Polygon  Rect   Path   PathSeg   Text   TextDisplay   Line   Dot   Arc   Donut   Ellipse 
+---------------------------------------------------------------------------------------------------------------------------------------
+FCOTA/fcota_with_cmfb/layout    314      0       0        2230   44     0         0      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        37     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        37     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        31     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        37     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        40     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        27     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        37     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        29     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        27     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        30     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        37     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        27     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        40     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        27     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        23     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        37     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        33     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        31     0      0         5      0             0      0     0     0       0       
+umc65sp/N_11_SPHVT/layout       0        0       0        29     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        29     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        44     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        38     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        33     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        27     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        37     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        37     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        35     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        38     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        42     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        29     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        37     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        42     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        34     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        23     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        29     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        39     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        30     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        37     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        33     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        37     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        29     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        40     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        32     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        29     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        30     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        44     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        29     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        33     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        39     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        38     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        30     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        41     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        37     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        32     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        38     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        38     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        27     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        38     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        34     0      0         5      0             0      0     0     0       0       
+umc65sp/P_11_SPHVT/layout       0        0       0        26     0      0         5      0             0      0     0     0       0       
+umc65sp/RSNPO_SP/layout         0        0       0        1052   0      0         5      2             0      0     0     0       0       
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Individual Cell Statistics - Advanced Objects
+--------------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               PRBdy    OtherBdy   AreaBlkg   LayerBlkg  AreaHalo   Row   Marker   Stitch   CustVia   StdVia    CdsGenVia
+--------------------------------------------------------------------------------------------------------------------------------------------
+FCOTA/fcota_with_cmfb/layout    0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/N_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/P_11_SPHVT/layout       0        0          0          0          0          0     0        0        0         0         0        
+umc65sp/RSNPO_SP/layout         0        0          0          0          0          0     0        0        0         0         0        
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Statistics of Layers 
+---------------------------------------------------------------------------------------------------------------------------------------
+Cadence         Cadence         Stream  Stream   
+Layer           Purpose         Layer   Datatype  Polygon  Rect     Path     Text     TextDisplay   Line Dot Arc Donut Ellipse Pathseg
+---------------------------------------------------------------------------------------------------------------------------------------
+DIFF            drawing         1       0         0        477      11       0        0             0    0   0   0     0      0      
+NWEL            drawing         3       0         0        51       11       0        0             0    0   0   0     0      0      
+PPLUS           drawing         11      0         0        113      0        0        0             0    0   0   0     0      0      
+NPLUS           drawing         12      0         0        82       11       0        0             0    0   0   0     0      0      
+PO1             drawing         41      0         0        1000     0        0        0             0    0   0   0     0      0      
+CONT            drawing         39      0         0        3108     0        0        0             0    0   0   0     0      0      
+ME1             drawing         46      0         0        707      11       0        0             0    0   0   0     0      0      
+SUBSTRATE       drawing         0       0         0        29       0        0        0             0    0   0   0     0      0      
+IPWM            drawing         63      63        0        0        0        400      0             0    0   0   0     0      0      
+PSYMBOL         drawing         82      0         0        70       0        0        0             0    0   0   0     0      0      
+TEXT            drawing         85      0         0        0        0        0        2             0    0   0   0     0      0      
+PO1             pin             41      0         0        10       0        0        0             0    0   0   0     0      0      
+DEVICE          SP_HVT          37      71        0        79       0        0        0             0    0   0   0     0      0      
+SYMBOL          MMSYMBOL        118     30        0        80       0        0        0             0    0   0   0     0      0      
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Summary of Objects Translated:
+	Scalar Instances:		314
+	Array Instances:		0
+	Polygons:			0
+	Paths:				44
+	Rectangles:			5806
+	Lines:				0
+	Arcs:				0
+	Donuts:				0
+	Dots:				0
+	Ellipses:			0
+	Boundaries:			0
+	Area Blockages:			0
+	Layer Blockages:		0
+	Area Halos:			0
+	Markers:			0
+	Rows:				0
+	Stitches:			0
+	Standard Vias:			0
+	Custom Vias:			0
+	CdsGen Vias:			0
+	Pathsegs:			0
+	Text:				400
+	TextDisplay:		2
+	Cells:				81
+Design Libraries: 
+
+DEFINE FCOTA	/home/vlsi/cadence/FCOTA
+DEFINE umc65sp	/home/vlsi/cadence/UMC/65/_G-01-LOGIC_MIXED_MODE65N-SP_LOW_K/Designkits/Cadence_IC6/umc65sp
